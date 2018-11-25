@@ -1,5 +1,5 @@
 
 public class justForFun {
-  System.out.print"hello there";
+  System.out.print("hello there");
 
 }
